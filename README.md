@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Bara
 
 <!--
 **barayuda/barayuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi 👋, I'm Bara</h1>
 <h3>A enthusiast frontend developer</h3>
 <p align="left">
 - 📫 How to reach me: gede@barayuda.web.id
