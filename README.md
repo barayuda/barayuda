@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>A enthusiast frontend developer</h3>
+<h3>An enthusiast frontend developer</h3>
 <p align="left">
 - 📫 How to reach me: gede@barayuda.web.id
 </p>
