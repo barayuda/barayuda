@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h3>An enthusiast frontend developer</h3>
 <p align="left">
 - 📫 How to reach me: <pre>$ grep -rnw '/go/to/my/github/profile' -e '@barayuda.web.id'</pre>
+- 💬 Thank you for supporting me🌱
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
