@@ -31,4 +31,4 @@
 
 ---
 
-© 2023 — Barayuda Gautama
+© 2024 — Barayuda
