@@ -2,8 +2,9 @@
 
 ## An enthusiast frontend developer
 <p align="left">
-* 📫 How to reach me: <pre>$ grep -rnw '/go/to/my/github/profile' -e '@barayuda.web.id'</pre>
-* 💬 Thank you for supporting me 🌱
+* 📫 How to reach me: <pre>$ grep -rnw '/go/to/my/github/profile' -e '@barayuda.web.id'</pre><br/>
+* 💬 Thank you for supporting me 🌱<br/>
+* 🌍 Love Japan & Singapore, hopefully can be there as PR and get sponsorship to going there<br/>
 </p>
 
 ## 🔍 Currently Learning:
@@ -20,9 +21,9 @@
   <details>
     <summary>Details (click me 👓)</summary>
     <br>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=barayuda&show_icons=true&theme=dracula" alt="Barayuda Github Stats"></p>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barayuda&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=barayuda&theme=algolia" alt="Stat Streak" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=barayuda&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Barayuda Github Stats"></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barayuda&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Most used languages" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=barayuda&theme=vue-dark&hide_border=true" alt="Stat Streak" /></p>
     <p><img src="https://github-profile-trophy.vercel.app/?username=barayuda&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
   </details>
 </div>
@@ -31,4 +32,4 @@
 
 ---
 
-© 2024 — Barayuda
+© 2025 — Barayuda
