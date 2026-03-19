@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bara
 
-## An enthusiast frontend developer
+## Software Engineer
 <p align="left">
 * 📫 How to reach me: <pre>$ grep -rnw '/go/to/my/github/profile' -e '@barayuda.web.id'</pre><br/>
 * 💬 Thank you for supporting me 🌱<br/>
