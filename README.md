@@ -4,11 +4,12 @@
 <p align="left">
 * 📫 How to reach me: <pre>$ grep -rnw '/go/to/my/github/profile' -e '@barayuda.web.id'</pre><br/>
 * 💬 Thank you for supporting me 🌱<br/>
-* 🌍 Love Japan & Singapore, hopefully can be there as PR and get sponsorship to going there<br/>
+* 🌍 Love explore something new<br/>
 </p>
 
 ## 🔍 Currently Learning:
-- Web3 and Generative AI/LLM.
+- Web3;
+- LLM and Agentic AI with LangChain
 - DevX and Tech Guideline
 
 ## ⚔️ Tools: 
@@ -32,4 +33,4 @@
 
 ---
 
-© 2025 — Barayuda
+© 2026 — Barayuda
