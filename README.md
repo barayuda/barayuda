@@ -33,4 +33,4 @@
 
 ---
 
-© 2026 — Barayuda
+© 2026 — [barayuda.web.id](https://www.barayuda.web.id)
