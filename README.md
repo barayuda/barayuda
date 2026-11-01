@@ -6,7 +6,7 @@
 * 🧑🏽‍💻 Find me on [UpWork](https://www.upwork.com/freelancers/~01e93506c94fe1aff6)
 * 💬 Thank you for your support!
 * 🌱 I love exploring new technologies
-* 🔍 Currently learning: Web3, LLMs, and Agentic AI with LangChain
+* 🔍 Focus: Web3, LLMs, and Agentic AI Flow
 
 ### ⚔️ Core Skills: 
 <p align="left">
